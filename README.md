@@ -6,7 +6,7 @@ Each of the four folders includes an Excel file that contains all modeling param
 
 
 ## Data Files
-The first tab of each Excel file is named "outline", which lists the modeling parameters and input data, as well as their locations in the Excel file given by tab names. For instance, the capital costs of electricty generators are given in tab "CapexE" in the data files.
+The first tab of each Excel file is named "outline", which lists the modeling parameters and input data that are included in the data file, as well as their locations in the Excel file given by tab names. For instance, the capital costs of electricty generators are given in tab "CapexE" in the data files.
 
 
 ## Citation
