@@ -11,4 +11,4 @@ The first tab of each Excel file is named "outline", which lists the modeling pa
 
 ## Citation
 Please use the following citation when using the data, methods or results of this work:
->Ning, Z.; Fengqi, Y., Can Renewable Generation, Energy Storage and Energy Efficient Technologies Enable Carbon Neutral Energy Transition for New York State? EnerarXiv 2020.
+>Zhao, N.; You, F., Can Renewable Generation, Energy Storage and Energy Efficient Technologies Enable Carbon Neutral Energy Transition for New York State? EnerarXiv 2020.
